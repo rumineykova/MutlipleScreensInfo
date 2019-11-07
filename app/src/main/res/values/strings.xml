@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MutlipleScreensInfo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_child">ChildActivity</string>
+</resources>
